@@ -1,3 +1,6 @@
+Xem thêm: Roles/Permission based Authorization using Laravel Gates
+https://www.youtube.com/watch?v=MbS4erVd820&list=PL0dP3mfTq3eaKR8l4Ca1ZNby-vIq93dn_
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
